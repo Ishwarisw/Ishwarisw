@@ -1,94 +1,93 @@
-```html
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=494D5F&height=150&section=header&text=ISHWARI.EXE&fontSize=55&fontColor=E5EAF5&animation=fadeIn&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:494D5F,50:8458B3,100:A0D2EB&height=190&section=header&text=ISHWARI.EXE&fontSize=55&fontColor=E5EAF5&fontAlignY=40&animation=fadeIn" width="100%"/>
 
-### ✦ WHERE LOGIC MEETS IMAGINATION ✦
+# ✦ WHERE LOGIC MEETS IMAGINATION ✦
 
-**Aspiring GenAI Engineer · Creative Developer · Digital Art Enthusiast**
+### Aspiring GenAI Engineer · Creative Developer · Digital Art Enthusiast
 
-<br/>
-
-*I turn curious ideas into creative digital experiences.*
+*Turning curious ideas into creative digital experiences.*
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-494D5F?style=flat-square&logo=github&logoColor=E5EAF5)](https://github.com/Ishwarisw)
+[![GitHub](https://img.shields.io/badge/GitHub-494D5F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ishwarisw)
+[![Python](https://img.shields.io/badge/Python-8458B3?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![AI](https://img.shields.io/badge/Generative_AI-D0BDF4?style=for-the-badge&logo=googlegemini&logoColor=494D5F)](https://ai.google.dev/)
 
 </div>
 
 ---
 
-## 01 / THE STORY
+## 01 — A LITTLE ABOUT ME
 
-Hello, I'm **Ishwari**! 
+Hey there! I'm **Ishwari** 👋
 
-A curious learner exploring the beautiful intersection of technology, artificial intelligence and creativity.
+I'm a curious learner exploring the intersection of technology, artificial intelligence and creativity.
 
-I'm interested in building things that are not only functional but also thoughtful, interactive and visually interesting.
+I believe technology is not just about writing code — it's also about imagination, experimentation and creating meaningful experiences.
 
-- ✧ Exploring Generative AI and intelligent applications.
-- ✧ Learning Python and programming fundamentals.
-- ✧ Interested in LLMs, AI agents and automation.
-- ✧ Experimenting with creative web experiences.
-- ✧ Inspired by art, games, design and imagination.
-
-> "Creativity is intelligence having fun."
+- 🤖 Exploring Generative AI and AI-powered applications.
+- 💻 Learning Python and programming fundamentals.
+- 🧠 Interested in LLMs, AI agents and automation.
+- 🌐 Exploring creative websites and interactive experiences.
+- 🎮 Fascinated by games and digital worlds.
+- 🎨 Passionate about painting, sketching and visual design.
 
 ---
 
-## 02 / MY CREATIVE UNIVERSE
+## 02 — MY CREATIVE UNIVERSE
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ◈ AI LAB
 
-Exploring the possibilities of artificial intelligence.
+Exploring the possibilities of intelligent technology.
 
 - Generative AI
 - Large Language Models
 - AI Agents
-- AI-powered applications
+- AI Applications
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ◈ CODE STUDIO
 
-Learning to turn ideas into working applications.
+Turning ideas into digital experiences.
 
 - Python
-- Programming fundamentals
+- Programming
 - APIs
 - Git & GitHub
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ◈ PIXEL WORLD
 
-Exploring interactive digital experiences.
+A space for interactive imagination.
 
 - Game concepts
-- Interactive websites
+- Web experiences
 - Creative interfaces
-- UI/UX inspiration
+- Digital experiments
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ◈ ART ROOM
 
-Where imagination gets its own space.
+Where creativity has no boundaries.
 
-- Painting & sketching
-- Digital aesthetics
-- Visual storytelling
-- Creative experiments
+- Painting & Sketching
+- Digital Aesthetics
+- Visual Storytelling
+- Creative Design
 
 </td>
 </tr>
@@ -96,91 +95,88 @@ Where imagination gets its own space.
 
 ---
 
-## 03 / MY TOOLKIT
+## 03 — MY TOOLKIT
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-8458B3?style=for-the-badge&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-494D5F?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-A0D2EB?style=for-the-badge&logo=visualstudiocode&logoColor=494D5F)
-![Gemini API](https://img.shields.io/badge/Gemini_API-D0BDF4?style=for-the-badge&logo=googlegemini&logoColor=494D5F)
+![Python](https://img.shields.io/badge/Python-8458B3?style=flat-square&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-494D5F?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-A0D2EB?style=flat-square&logo=visualstudiocode&logoColor=494D5F)
+![Gemini API](https://img.shields.io/badge/Gemini_API-D0BDF4?style=flat-square&logo=googlegemini&logoColor=494D5F)
 
 </div>
 
+*Currently learning, experimenting and expanding my technical toolkit.*
+
 ---
 
-## 04 / THE EXPERIMENTS
-
-Things I'm exploring, designing and building.
+## 04 — THINGS I'M BUILDING
 
 ### ✧ MemoryMesh
-A conflict-aware long-term AI memory system concept.
 
-**Focus:** AI memory, information consistency, retrieval and conflict resolution.
+A conflict-aware long-term AI memory system.
 
-*Status: Hackathon project exploration.*
+Exploring how AI systems can manage outdated, contradictory and context-dependent information.
+
+**Focus:** Generative AI · Memory Systems · Information Retrieval
+
+**Status:** Hackathon project exploration.
 
 ### ✧ Little Bloom 🌷
-A tiny digital garden where daily goals turn into growing flowers.
 
-**Focus:** Creative frontend development, JavaScript and interactive design.
+A tiny digital garden where everyday goals turn into growing flowers.
 
-*Status: Project concept.*
+An experiment combining productivity, creativity and interactive web design.
 
----
+**Focus:** Frontend Development · JavaScript · UI Design
 
-## 05 / CURRENTLY LEARNING
-
-```python
-class Ishwari:
-    def __init__(self):
-        self.name = "Ishwari"
-        self.focus = [
-            "Python",
-            "Generative AI",
-            "LLM Applications",
-            "Creative Development"
-        ]
-
-        self.mindset = "Always curious"
-
-    def next_step(self):
-        return "Learn → Experiment → Build → Improve"
-
-
-me = Ishwari()
-print(me.next_step())
-```
+**Status:** Upcoming creative project.
 
 ---
 
-## 06 / BEYOND THE CODE
+## 05 — MY LEARNING JOURNEY
+
+A little progress every day makes a big difference.
+
+| Area | Journey |
+|---|---|
+| Python | 🌱 Learning |
+| Generative AI | 🌱 Exploring |
+| LLM Applications | 🌱 Exploring |
+| API Integration | 🌱 Experimenting |
+| Web Development | 🌱 Exploring |
+| Creative Design | ✨ Practicing |
+
+---
+
+## 06 — BEYOND THE CODE
 
 Some things that inspire me:
 
-🎨 Art and handmade creations  
-🌌 Space, aesthetics and imagination  
-🎮 Games and interactive worlds  
-🤖 Emerging AI technologies  
-🌷 Building things that make people smile  
+🎨 Art, painting and handmade creations
+
+🌌 Space, stars and beautiful aesthetics
+
+🎮 Games and interactive digital worlds
+
+🤖 Emerging AI technologies
+
+🌷 Creating things that make people smile
 
 ---
 
+## 07 — A LITTLE PHILOSOPHY
+
 <div align="center">
 
-### ✦ A LITTLE NOTE ✦
+### "Dream it. Design it. Code it."
 
-**Dream it. Design it. Code it.**
+*Think creatively. Build fearlessly. Keep exploring.*
 
 I'm still learning, still experimenting and just getting started.
 
-Thanks for visiting my little corner of the internet!
+**Thanks for visiting my little corner of GitHub!** 💜
 
-<br/>
-
-![Visitors](https://komarev.com/ghpvc/?username=Ishwarisw&label=CURIOUS%20VISITORS&color=8458B3&style=flat-square)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=494D5F&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:494D5F,50:8458B3,100:A0D2EB&height=120&section=footer" width="100%"/>
 
 </div>
-```
